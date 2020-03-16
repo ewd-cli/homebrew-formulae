@@ -1,7 +1,7 @@
 class Ewd < Formula
   desc "A CLI for saving and executing commands in the working directory"
   homepage "https://github.com/ewd-cli/ewd"
-  url "https://github.com/ewd-cli/ewd.git", :tag => "0.1.0", :revision => "b720971f3b7f651058ac4aa5b3c70d78579ed419"
+  url "https://github.com/ewd-cli/ewd.git", :tag => "0.1.1", :revision => "08a2c2c6fb35b1fe930ae3e4d51e26b26b107022"
   head "https://github.com/ewd-cli/ewd.git", :shallow => false
   
   depends_on :xcode
